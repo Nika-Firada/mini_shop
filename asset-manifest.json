@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mini_shop/static/css/main.2dede536.css",
+    "main.js": "/mini_shop/static/js/main.6f9dd62b.js",
+    "static/media/bgpic.jpeg": "/mini_shop/static/media/bgpic.e93076dc069df05ddbb2.jpeg",
+    "index.html": "/mini_shop/index.html",
+    "main.2dede536.css.map": "/mini_shop/static/css/main.2dede536.css.map",
+    "main.6f9dd62b.js.map": "/mini_shop/static/js/main.6f9dd62b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dede536.css",
+    "static/js/main.6f9dd62b.js"
+  ]
+}
